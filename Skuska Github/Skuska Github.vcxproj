@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8c8f6b99-800b-4ddf-b5f2-e3f95d53c650}</ProjectGuid>
-    <RootNamespace>SkuskaGithub</RootNamespace>
+    <ProjectGuid>{e7a6daa1-ea09-47b3-b0b1-d507f31689bf}</ProjectGuid>
+    <RootNamespace>SkuskaGitHub</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Skuska Github.cpp" />
+    <ClCompile Include="Skuska GitHub.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

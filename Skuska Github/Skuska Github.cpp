@@ -2,7 +2,6 @@
 
 int main()
 {
-    std::cout << "Adrian Wohlmuth\n";
+    std::cout << "Michal Sutek\n";
     std::cout << "Ahoj Svet\n";
 }
-

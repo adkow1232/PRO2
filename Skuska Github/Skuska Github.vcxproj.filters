@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Skuska Github.cpp">
+    <ClCompile Include="Skuska GitHub.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
