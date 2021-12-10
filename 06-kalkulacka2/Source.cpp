@@ -14,15 +14,15 @@ int main()
         switch (operacia)
         {
         case '+':
-            cout << cislo1 << " + " << cislo2 << " = " << cislo1 + cislo2;
+            cout << cislo1 << " + " << cislo2 << " = " << cislo1 + cislo2 << endl;
             break;
 
         case '-':
-            cout << cislo1 << " - " << cislo2 << " = " << cislo1 - cislo2;
+            cout << cislo1 << " - " << cislo2 << " = " << cislo1 - cislo2 << endl;
             break;
 
         case '*':
-            cout << cislo1 << " * " << cislo2 << " = " << cislo1 * cislo2;
+            cout << cislo1 << " * " << cislo2 << " = " << cislo1 * cislo2 << endl;
             break;
 
         case '/':
